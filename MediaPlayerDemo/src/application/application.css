@@ -1,0 +1,88 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#play{
+	-fx-font-size:20px;
+	-fx-background-color:rgb(85,151,94);
+	-fx-text-fill:rgb(64,0,64);
+	-fx-padding:8 8 8 8;
+	-fx-border-radius:10;
+	-fx-font-weight: bold;
+}
+
+#stop{
+	-fx-font-size:20px;
+	-fx-background-color:rgb(85,151,94);
+	-fx-text-fill:rgb(64,0,64);
+	-fx-padding:8 8 8 8;
+	-fx-border-radius:10;
+	-fx-font-weight: bold;
+}
+#pause{
+	-fx-font-size:20px;
+	-fx-background-color:rgb(85,151,94);
+	-fx-text-fill:rgb(64,0,64);
+	-fx-padding:8 8 8 8;
+	-fx-border-radius:10;
+	-fx-font-weight: bold;
+}
+
+#fast{
+	-fx-font-size:20px;
+	-fx-background-color:rgb(85,151,94);
+	-fx-text-fill:rgb(64,0,64);
+	-fx-padding:8 8 8 8;
+	-fx-border-radius:10;
+	-fx-font-weight: bold;
+}
+
+#slow{
+	-fx-font-size:20px;
+	-fx-background-color:rgb(85,151,94);
+	-fx-text-fill:rgb(64,0,64);
+	-fx-padding:8 8 8 8;
+	-fx-border-radius:10;
+	-fx-font-weight: bold;
+}
+#reload{
+	-fx-font-size:20px;
+	-fx-background-color:rgb(85,151,94);
+	-fx-text-fill:rgb(64,0,64);
+	-fx-padding:8 8 8 8;
+	-fx-border-radius:10;
+	-fx-font-weight: bold;
+}
+
+#start{
+	-fx-font-size:20px;
+	-fx-background-color:rgb(85,151,94);
+	-fx-text-fill:rgb(64,0,64);
+	-fx-padding:8 8 8 8;
+	-fx-border-radius:10;
+	-fx-font-weight: bold;
+}
+
+#volumeslider{
+	-fx-font-size:20px;
+	-fx-background-color:rgb(85,151,94);
+	-fx-text-fill:rgb(64,0,64);
+	-fx-padding:8 8 8 8;
+	-fx-border-radius:10;
+	-fx-font-weight: bold;
+}
+
+#load{
+	-fx-font-size:20px;
+	-fx-background-color:rgb(85,151,94);
+	-fx-text-fill:rgb(64,0,64);
+	-fx-padding:2 2 2 2;
+	-fx-border-radius:10;
+	-fx-font-weight: bold;
+}
+
+#hbox{
+	
+	-fx-background-color:rgb(0,0,0);
+	-fx-text-fill:rgb(64,0,64);
+	-fx-padding:8 8 8 8;
+	-fx-border-radius:10;
+	-fx-font-weight: bold;
+}
